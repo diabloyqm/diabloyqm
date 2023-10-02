@@ -1,1 +1,1 @@
-_
+cout << this << endl;
